@@ -38,8 +38,10 @@ The other hints are visual hints, which are a little more hit and miss than the 
 that will hint towards the answer. I tried a lot of different prompt engineering to guide the images in certain ways but I found this was the hardest element to 
 control in the project. The successes are that the model could create images that kept the mysterious vibe of the project with the
 same difficulty scaling. However, despite giving it advice on not 
-being too obvious or too cryptic, sometimes the model would generate images that are literally the answer or absurdly abstract. Still, as a player, it was pretty
-fun to try to decipher some of the hints.
+being too obvious or too cryptic, sometimes the model would generate images that are literally the answeR, absurdly abstract, or just so cryptic that
+I don't even know what it was thinking about at all.. Still, as a player, it was pretty fun to try to decipher some of the hints and added to the 
+atmosphere in some uncanny way. I think the use of AI generated content/assets is actually super effective in certain horror and mystery games for
+this reason; there is some quality that feels just not right often in AI content that adds suspense / uncanny valley.
 
 e.g.
 
@@ -50,6 +52,10 @@ Riddle #139 (ai gen-ed)
 
 I kept getting strange images like this and I slowly realized they all had a letter integrated in them in some abstract way, which I thought was actually
 pretty cool.
+
+Another example of a pretty goofy output for:
+"With a tail that is not a tail, in scholarly pursuits I never fail, I search for food on a tiny scale. What am I?" Bookworm
+![Screenshot 2025-03-09 at 3 27 18 PM](https://github.com/user-attachments/assets/713e140e-35b7-477e-8076-703e33519cb5)
 
 
 Finally, the last big AI use was the actual AI generated riddles. This mostly relied on prompt engineering as the gpt 4o loves to give one riddle about 
