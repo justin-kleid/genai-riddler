@@ -1,6 +1,7 @@
 ## Overview of Puzzle Quest
 
 This project is a riddle game using simple traditional puzzles with AI twists.
+If there are any problems at all, email jkleidermacher@uchicago.edu!
 
 
 ### Features
