@@ -66,17 +66,17 @@ Dall-E, gpt 4o, and streamlit
 ### Running the project
 
 #### clone repo
-git clone https://github.com/justin-kleid/genai-riddler.git
-cd genai-riddler
+``git clone https://github.com/justin-kleid/genai-riddler.git``
+``cd genai-riddler``
 
 #### venv for mac (can also do w/out an environment or your preferred method)
-python -m venv riddlenv
-source riddlenv/bin/activate
-pip install -r requirements.txt
+``python -m venv riddlenv``
+``source riddlenv/bin/activate``
+``pip install -r requirements.txt``
 
 #### make env file with api key
-echo "OPENAI_API_KEY=put_in_api_key_here" > .env
+``echo "OPENAI_API_KEY=put_in_api_key_here" > .env``
 
 #### run app
-streamlit run app.py
+``streamlit run app.py``
 
